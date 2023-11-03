@@ -1,25 +1,19 @@
 main:
 
-  - title: Graphics Project 1
-    # pdf: https://arxiv.org/pdf/2106.15821.pdf
-    image: ./assets/teaser/placeholder.jpg
-    descriptions: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    code: https://github.com/martingerlach/hSBM_Topicmodel 
+  - title: Multi-Span QA Approach to Extracting Emotion Cause Pairs
+    pdf: ./assets/pdf/ecpe_project.pdf
+    image: ./assets/teaser/teaser_ecpe.png
+    date: 2023
+    descriptions: The key contribution of the project is its novel approach to the <a href="https://aclanthology.org/P19-1096/">ECPE</a> task through several methods, such as 1) framing the problem as a multi-span extractive question-answering problem, 2) evaluating the performance of LLMs on this task, and 3) recreating SOTA frameworks in Pytorch that were originally crafted in TensorFlow 1.x.
+    technologies: HuggingFace, PyTorch, Prompt Engineering
+    project_type: NLP
+    code: https://github.com/ymtao5219/ecpe_msqa
 
-  - title: Graphics Project 2
-    # pdf: https://arxiv.org/pdf/2106.15821.pdf
-    image: ./assets/teaser/placeholder.jpg
-    descriptions: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    code: https://github.com/martingerlach/hSBM_Topicmodel 
-
-  - title: Web development Project 1
-    # pdf: https://arxiv.org/pdf/2106.15821.pdf
-    image: ./assets/teaser/placeholder.jpg
-    descriptions: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    code: https://github.com/martingerlach/hSBM_Topicmodel 
-
-  - title: Web development Project 2
-    # pdf: https://arxiv.org/pdf/2106.15821.pdf
-    image: ./assets/teaser/placeholder.jpg
-    descriptions: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    code: https://github.com/martingerlach/hSBM_Topicmodel 
+  - title: Topic Modeling as a Community-Detection Problem
+    pdf: ./assets/pdf/honoursThesis_YuanmingTao.pdf
+    image: ./assets/teaser/teaser_honours_thesis.png
+    date: 2019
+    descriptions: The thesis's main contribution is enhancing the network model with additional textual information, improving the classification of documents. Experiments on Wikipedia articles confirm that incorporating auxiliary information into topic models results in a better fit to the data and superior document classification.
+    technologies: scikit-learn, SpaCy, <a href="https://graph-tool.skewed.de/"> graph-tool</a>, mediawiki API
+    slides: ./assets/pdf/ccs2019_singapore.pdf
+    project_type: NLP
