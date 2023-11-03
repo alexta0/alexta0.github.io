@@ -1,0 +1,21 @@
+main:
+
+  - title: On Surgical Fine-tuning for Language Encoder
+    authors: Abhilasha Lodha*, Gayatri Belapurkar*, Saloni Chalkapurkar*, <em>Yuanming Tao*</em>, Reshmi Ghosh, Samyadeep Basu, Dmitrii Petrov, Soundararajan Srinivasan
+    conference: EMNLP Findings, 2023
+    conference_short: EMNLP
+    pdf: https://arxiv.org/pdf/2310.17041.pdf
+    image: ./assets/teaser/teaser_surgical_fine_tuning.png
+    code: https://github.com/ymtao5219/surgical_fine_tuning
+    notes: <sup>*</sup> Equal Contribution
+
+  - title: Multilayer Networks for Text Analysis With Multiple Data Types
+    authors: Charles C. Hyland, <em>Yuanming Tao</em>, Lamiae Azizi, Martin Gerlach, Tiago P. Peixoto,  Eduardo G. Altmann 
+    conference_short: EPJ Data Science
+    conference: EPJ Data Science, 2021
+    pdf: https://arxiv.org/pdf/2106.15821.pdf
+    image: ./assets/teaser/teaser_topic_model.png
+    code: https://github.com/martingerlach/hSBM_Topicmodel 
+    page: https://topsbm.github.io/
+
+
