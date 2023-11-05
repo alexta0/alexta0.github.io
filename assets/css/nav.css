@@ -127,6 +127,7 @@
    @media print, screen and (max-width: 960px) { 
     .topnav #myLinks {
         display: none;
+        padding: 14px 16px;
       }
 
       .topnav a.normal {
