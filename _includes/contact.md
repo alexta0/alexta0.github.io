@@ -7,6 +7,6 @@
 <!-- <strong>Office Location:</strong>  -->
 <!-- <br /> -->
  <p>
-<strong>Email:</strong> <email>ytao5219 (at) gmail (at) com</email>
+<strong>Email:</strong> <email>ytao5219 (at) gmail (dot) com</email>
 <br />
 <strong>Phone:</strong> (413) 428-8035</p>
