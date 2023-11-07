@@ -17,3 +17,12 @@ main:
     technologies: scikit-learn, SpaCy, <a href="https://graph-tool.skewed.de/"> graph-tool</a>, mediawiki API
     slides: ./assets/pdf/ccs2019_singapore.pdf
     project_type: NLP
+
+  - title: Modelling & Analysis of the Dynamics of Pendulum Chain
+    pdf: ./assets/pdf/project_report_pendulum.pdf
+    image: ./assets/teaser/teaser_pendulum.gif
+    code: https://github.com/ymtao5219/pendulum_dynamics
+    date: 2018
+    descriptions: The project's contribution includes the creation of a fully vectorized and memory-optimized codebase, enhancing the exploration of dynamic behaviors in a multi-mass pendulum chain and revealing its dependence on initial conditions and the number of masses involved.
+    technologies: Scipy, Sparse Matrices, Numerical Analysis
+    project_type: Comp. Math.
