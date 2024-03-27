@@ -1,5 +1,5 @@
 # Basic Information 
-title: Yuanming Tao
+title: Yuanming (Alex) Tao
 position: MSCS Student
 affiliation: UMass Amherst
 affiliation_link: https://ymtao5219.github.io
@@ -31,8 +31,8 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
-# footnote: 
-# footnote_link: 
+footnote: This website is created with Hugo. Please feel free to use the minimal light theme. 
+footnote_link: https://github.com/yaoyao-liu/minimal-light?tab=readme-ov-file
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
