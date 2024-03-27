@@ -20,7 +20,7 @@ layout: homepage
 
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am pursuing PhD programs in the coming fall 2024.</strong></strong>
 
-{% include_relative _includes/research_interests.md %}
+<!-- {% include_relative _includes/research_interests.md %} -->
 
 {% include_relative _includes/news.md %}
 
