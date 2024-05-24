@@ -1,15 +1,15 @@
 # Basic Information 
 title: Yuanming (Alex) Tao
-position: MSCS Student
-affiliation: UMass Amherst
+position: Incoming PhD student in applied maths
+affiliation: USYD
 affiliation_link: https://ymtao5219.github.io
-affiliation_logo: ./assets/img/name-logo.svg
+affiliation_logo: ./assets/img/usyd-logo.svg
 email: ytao5219 (at) gmail (dot) com
 
 # Search Engine Optimization (SEO)
 keywords: yuanming tao, taoyuanming, tao yuanming, alex tao
 canonical: https://ymtao5219.github.io
-description: Yuanming Tao is a CS student at UMass Amherst. 
+description: Yuanming Tao is a PhD student at USYD. 
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
