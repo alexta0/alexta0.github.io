@@ -31,7 +31,7 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
-footnote: This website is created with Hugo. Please feel free to use the minimal light theme. 
+footnote: This website is built with Hugo, utilizing the Minimal Light theme.
 footnote_link: https://github.com/yaoyao-liu/minimal-light?tab=readme-ov-file
 
 # Analytics
