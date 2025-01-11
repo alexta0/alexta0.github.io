@@ -8,6 +8,4 @@
 
 <li>For most Chinese people, my name is very easy to remember because it is spelled the same as <a href="https://en.wikipedia.org/wiki/Tao_Yuanming">Tao Yuanming</a>, the famous poet from the Eastern Jin dynasty in ancient China.</li>
 
-
-
 </ul>

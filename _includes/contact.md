@@ -2,11 +2,8 @@
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<!-- <p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Malone+Hall,+3400+N+Charles+St,+Baltimore,+MD+21218/@39.3262085,-76.6253679,17z/data=!3m1!4b1!4m6!3m5!1s0x89c804de59b4d18d:0x2d92398f0946a9ad!8m2!3d39.3262044!4d-76.6208832!16s%2Fg%2F11b6g45l_1?coh=164777&amp;entry=tt">Address</a> -->
-<!-- <br /> -->
-<!-- <strong>Office Location:</strong>  -->
-<!-- <br /> -->
- <p>
-<strong>Email:</strong> <email>ytao5219 (at) gmail (dot) com</email>
-<br />
-<strong>Phone:</strong> (413) 428-8035</p>
+<li> <strong>Address:</strong> School of Mathematics and Statistics F07, University of Sydney NSW 2006, Australia </li>
+
+<li> <strong>Office:</strong> Room 528, <a href="https://www.google.com/maps/place/Carslaw+Building,+Camperdown+NSW+2050/data=!4m2!3m1!1s0x6b12b1d468f4e823:0xc3e5333503cccedf?sa=X&ved=1t:242&ictx=111">Carslaw Building</a> </li>
+
+<li> <strong>School Email:</strong> <email>ytao5219 (at) uni (dot) sydney (dot) edu</email> </li>
