@@ -1,6 +1,6 @@
 # Basic Information 
 title: Yuanming (Alex) Tao
-position: Incoming PhD student in applied maths
+position: PhD student in applied maths
 affiliation: The University of Sydney
 affiliation_link: https://ymtao5219.github.io
 affiliation_logo: ./assets/img/name-logo.svg
@@ -21,7 +21,7 @@ enable_last_update: true
 link_type: text #text/icon
 google_scholar: https://scholar.google.com/citations?user=SCHOLAR_ID&user=dwIyWrEAAAAJ
 cv_link: ./assets/pdf/yuanmingtao_resume.pdf
-github_link: https://github.com/ymtao5219
+github_link: https://github.com/alexta0
 linkedin: https://www.linkedin.com/in/yuanmingtao/
 twitter: https://x.com/yuanmingta0
 
