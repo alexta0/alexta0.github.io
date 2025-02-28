@@ -27,8 +27,6 @@ I graduated with first-class honours in Applied Mathematics from The University 
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/projects.md %} -->
-
 {% include_relative _includes/contact.md %}
 
 {% include_relative _includes/misc.md %}
