@@ -12,9 +12,10 @@
 
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 
+<div id="newsmore" style="display:none">
+
 <li><strong>[Jul. 2023]</strong> I will do summer research intern at UMass Graphics Lab, working on geometry editing of 2D/3D diffusion models.</li>
 
-<div id="newsmore" style="display:none">
 <li><strong>[Jun. 2021]</strong> I'm proud to share that our paper "Multilayer Networks for Text Analysis With Multiple Data Types" was accepted by EPJ Data Science, a Q1 journal according to the <a href="https://www.scimagojr.com/journalsearch.php?q=21100397403&tip=sid&clean=0">SCImago Journal Rank</a>.</li>
 
 <li><strong>[May 2020]</strong> I'm excited to begin my journey as a Software Development Engineer with Huawei in Hangzhou.</li>
