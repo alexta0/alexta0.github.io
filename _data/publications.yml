@@ -1,7 +1,7 @@
 main:
 
   - title: "ShapeWords: Guiding Text-to-Image Synthesis with 3D Shape-Aware Prompts"
-    authors: Dmitry Petrov, Pradyumn Goyal, Divyansh Shivashok, <em>Yuanming Tao*</em>, Melinos Averkiou, Evangelos Kalogerakis
+    authors: Dmitry Petrov, Pradyumn Goyal, Divyansh Shivashok, <em>Yuanming Tao</em>, Melinos Averkiou, Evangelos Kalogerakis
     conference: CVPR, 2025
     conference_short: CVPR
     image: ./assets/teaser/teaser_image_cvpr2025.png
