@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Load D3 -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+  <!-- Optional styling -->
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+    }
+    .link {
+      stroke: #999;
+      stroke-opacity: 0.6;
+    }
+    .node {
+      fill: #69b3a2;
+      stroke: #fff;
+      stroke-width: 1.5px;
+    }
+    svg {
+      border: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Render the content of visualization.md -->
+  {{ content }}
+
+  <svg width="800" height="600"></svg>
+
+  <!-- Load your custom D3 script -->
+  <script src="{{ '/assets/js/d3-network.js' | relative_url }}"></script>
+</body>
+</html>
